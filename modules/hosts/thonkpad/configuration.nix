@@ -101,6 +101,7 @@
     git
     fprintd
     firefox
+    github-cli
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
