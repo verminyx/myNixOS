@@ -102,6 +102,7 @@
     fprintd
     firefox
     github-cli
+    signal-desktop
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
